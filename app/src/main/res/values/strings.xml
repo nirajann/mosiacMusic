@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MosaicMusic</string>
+    <string name="suffle_btn">Shuffle</string>
+    <string name="favorite_btn">Favorite</string>
+    <string name="playlist_btn">Playlists</string>
+    <string name="total_songs">Total songs</string>
+    <string name="world_of_music">World Of Music</string>
+    <string name="song_name">Song Name</string>
+    <string name="back_btn">Back</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">Loading</string>
+    <string name="reapeat_btn">Repeat</string>
+    <string name="equilizer_btn">Equalizer</string>
+    <string name="timer_btn">Timer</string>
+    <string name="share_btn">Share</string>
+</resources>
